@@ -1,0 +1,15 @@
+/* styles.css */
+
+body {
+    display: flex;
+    align-items: flex-start; /* Isso centraliza horizontalmente e alinha na parte superior */
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  #titulo {
+    text-align: center;
+    margin: 0 auto; /* Isso centraliza horizontalmente */
+  }
+  
